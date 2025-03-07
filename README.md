@@ -11,8 +11,9 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,md,js,nodejs,java,androidstudio,flask,python,firebase,replit,git,github,vscode,powershell,bash,linux,ubuntu,mint,arch,windows,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,md,js,nodejs,java,androidstudio,flask,python,firebase,replit,git,github,vscode,powershell,bash,linux,ubuntu,mint,arch,windows,blender,debain,electron,flutter,gcp,react,gmail" />
 </p>
+
 
 
 <p align="center">
