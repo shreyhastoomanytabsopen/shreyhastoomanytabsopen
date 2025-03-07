@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-<i class="fa-brands fa-java"></i>
+<i class="fa-brands fa-java" color="white"></i>
 <i class="fa-brands fa-js"></i>
 <i class="fa-brands fa-html5"></i>
 <i class="fa-brands fa-python"></i>
