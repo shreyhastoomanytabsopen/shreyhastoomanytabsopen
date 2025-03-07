@@ -11,13 +11,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,md,js,nodejs,java,androidstudio,flask,python,firebase,replit,git,github,vscode,powershell,bash,linux,ubuntu,mint,arch,windows,blender,npm,electron,flutter,gcp,react,gmail" />
-</p>
-
-
-
-<p align="center">
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/shreyhastoomanytabsopen/shreyhastoomnaytabsopen/output/github-contribution-grid-snake-dark.svg" />****
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,md,js,nodejs,java,androidstudio,flask,python,firebase,replit,git,github,vscode,powershell,bash,linux,ubuntu,mint,arch,windows,blender,npm,electron,flutter,gcp,react,vs" />
 </p>
 
 ## 📜 License
