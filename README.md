@@ -1,43 +1,30 @@
-
-
-
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyyipee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyyipee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-<i class="fa-brands fa-java" color="white"></i>
-<i class="fa-brands fa-js"></i>
-<i class="fa-brands fa-html5"></i>
-<i class="fa-brands fa-python"></i>
-<i class="fa-brands fa-square-js"></i>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shreyhastoomanytabsopen/shreyhastoomanytabsopen/output/snake.svg" alt="Snake animation" />
-
-###
+<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+@keyframes bounce {
+  0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
+  12%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
+  13%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
+  20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
+  22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
+  27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+}
+h1 {
+  width: 120px;
+  line-height: 20px;
+  padding-top: 70px;
+  text-align: center;
+  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
+  color: rgb(52, 73, 94);
+  transform-origin: bottom;
+  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+}
+      </style>
+      <h1>Hello, world</h1>
+    </div>
+  </foreignObject>
+</svg>
