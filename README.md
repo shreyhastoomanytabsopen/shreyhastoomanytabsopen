@@ -14,7 +14,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,md,js,nodejs,java,androidstudio,flask,python,firebase,replit,git,github,vscode,powershell,bash,linux,ubuntu,mint,arch,windows,blender,npm,electron,flutter,gcp,react,visualstudio" />
 </p>
 
-![snake gif](https://github.com/shreyhastoomanytabsopen/shreyhastoomanytabsopen/tree/output/github-snake.gif)
-
+![snake gif](https://github.com/shreyhastoomanytabsopen/shreyhastoomanytabsopen/blob/output/github-snake-dark.svg)
 ## 📜 License
 This profile README is licensed under the **Shrey License :)**.
