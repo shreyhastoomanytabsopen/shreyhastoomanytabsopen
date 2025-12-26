@@ -1,13 +1,13 @@
 # 💻 Hi, I'm @Shreyhastoomanytabsopen 👋
 
 ## 🚀 About Me
-- 👀 I’m interested in software development (based on web)
-- 🌱 I’m currently learning (html with electron)
-- 💞️ I’m looking to collaborate on desktop apps
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning how to chill...
+- 💞️ I’m looking to meet fellow programmers
 - 📫 How to reach me shreyhastoomanytabsopen@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: love coding
-- 💼 I work at @shreyandcode
+- ⚡ Fun fact: loves music
+- 💼 I work at @Coderithlabs
 
 ## 🛠 Tech Stack
 <p align="center">
